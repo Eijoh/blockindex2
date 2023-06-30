@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name     NoAds (NSW) ⭐
-// @updateURL https://noads.ga/nsw.user.js
-// @downloadURL https://noads.ga/nsw.user.js
+// @updateURL https://noads.top/nsw.user.js
+// @downloadURL https://noads.top/nsw.user.js
 // @include  https://ouo.io/*
 // @include  https://ouo.press/*
 // @include  https://nxbrew.com/*
@@ -36,7 +36,7 @@ for (var i=0;i<links.snapshotLength;i++) {
     thisLink.href = thisLink.href.replace('http://1link.club/',
                                           'https://1link.club/');
     thisLink.href = thisLink.href.replace('https://1link.club/',
-                                          'https://yes.noads.ga/ER.php?!VAR!000!=https://1link.club/');
+                                          'https://yes.noads.top/ER.php?!VAR!000!=https://1link.club/');
 }
 $(".btn.btn-success.btn-lg.get-link.disabled").hide()
 setInterval(function () {
