@@ -6,7 +6,7 @@
 // @include  https://ouo.press/*
 // @include  https://nxbrew.com/*
 // @include  https://cutdl.xyz/*
-// @version  1.3
+// @version  1.4
 // @author   Hipelago
 // @description  Autobypass ouo.io / 1link.club / cutdl
 // @run-at   document-end
